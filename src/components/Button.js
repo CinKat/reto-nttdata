@@ -12,6 +12,7 @@ const StyleButton = styled.div`
   align-items: center;
   width: fit-content;
   border-radius: 8px;
+  margin-bottom: 10px;
 `
 
 export function Button({ data }) {
